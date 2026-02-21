@@ -1,3 +1,5 @@
+⚠️ Archived, moved to Codeberg: https://codeberg.org/dsiggi/otrcut ⚠️
+
 # otrcut
 Dieses Script schneidet Filme/Serien von http://www.onlinetvrecorder.de anhand der Schnittlisten von
 http://www.cutlist.at.
